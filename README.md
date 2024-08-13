@@ -42,7 +42,7 @@ Model Evaluation
 ## App Deployment
 We've deployed a demo version of our face detection model as a web application using Heroku. This allows users to interact with the model and test its capabilities in real time.
 
-![Demo 1](https://github.com/kompany04/Capstone_Project/blob/main/demo_site/Demo_1.png)
+![Demo 1](https://github.com/kompany04/Capstone_Project/blob/main/Pictures/Demo_1.png)
 
 ## Technical Details
 list of technologies used in a project, likely for web development and deployment. Here's a breakdown of the technologies mentioned:
