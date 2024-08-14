@@ -1,4 +1,4 @@
-# Deep Face Detection Model
+# Deep Face Detection Model:
 
 ## Project Overview
 This project develops a deep learning-based face detection model aimed at enhancing security measures in office environments. The model is trained on a local dataset of team member images and is designed to accurately recognize and identify individuals for access control purposes.
